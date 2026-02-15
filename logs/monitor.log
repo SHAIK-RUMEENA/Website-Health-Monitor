@@ -1,0 +1,127 @@
+==============================
+Website Health Monitoring System - Sun Feb 15 12:38:38 PM EST 2026
+==============================
+Checking www.google.com ...
+www.google.com is reachable
+HTTP 200 OK - scanning ports
+80/tcp  open  http
+443/tcp open  https
+---------------------------------
+Checking www.youtube.com ...
+www.youtube.com is reachable
+HTTP 200 OK - scanning ports
+80/tcp  open  http
+443/tcp open  https
+---------------------------------
+Checking www.amazon.com ...
+www.amazon.com is reachable
+HTTP Error: 503
+---------------------------------
+Checking savoryminds.com ...
+savoryminds.com is reachable
+Website redirected (301)
+---------------------------------
+==============================
+Website Health Monitoring System - Sun Feb 15 12:57:16 PM EST 2026
+==============================
+
+Checking: www.google.com
+[32mwww.google.com reachable[0m
+[32mHTTP 200 OK[0m
+[32mOpen Ports:[0m 80/tcp
+443/tcp
+----------------------------------
+
+Checking: www.youtube.com
+[32mwww.youtube.com reachable[0m
+[32mHTTP 200 OK[0m
+[32mOpen Ports:[0m 80/tcp
+443/tcp
+----------------------------------
+
+Checking: www.amazon.com
+[32mwww.amazon.com reachable[0m
+[31mHTTP Error: 503[0m
+----------------------------------
+
+Checking: savoryminds.com
+[32msavoryminds.com reachable[0m
+[33mRedirected (301)[0m
+----------------------------------
+==============================
+Website Health Monitoring System - Sun Feb 15 12:57:19 PM EST 2026
+==============================
+Checking www.google.com ...
+www.google.com is reachable
+HTTP 200 OK - scanning ports
+80/tcp  open  http
+443/tcp open  https
+---------------------------------
+Checking www.youtube.com ...
+www.youtube.com is reachable
+HTTP 200 OK - scanning ports
+80/tcp  open  http
+443/tcp open  https
+---------------------------------
+Checking www.amazon.com ...
+www.amazon.com is reachable
+HTTP Error: 503
+---------------------------------
+Checking savoryminds.com ...
+savoryminds.com is reachable
+Website redirected (301)
+---------------------------------
+==============================
+Website Health Monitoring System - Sun Feb 15 01:00:13 PM EST 2026
+==============================
+
+Checking: www.google.com
+[32mwww.google.com reachable[0m
+[32mHTTP 200 OK[0m
+[32mOpen Ports:[0m 80/tcp
+443/tcp
+----------------------------------
+
+Checking: www.youtube.com
+[32mwww.youtube.com reachable[0m
+[32mHTTP 200 OK[0m
+[32mOpen Ports:[0m 80/tcp
+443/tcp
+----------------------------------
+
+Checking: www.amazon.com
+[32mwww.amazon.com reachable[0m
+[31mHTTP Error: 503[0m
+----------------------------------
+
+Checking: savoryminds.com
+[32msavoryminds.com reachable[0m
+[33mRedirected (301)[0m
+----------------------------------
+==============================
+Website Health Monitoring System - Sun Feb 15 01:00:44 PM EST 2026
+==============================
+
+Checking: www.google.com
+[32mwww.google.com reachable[0m
+[32mHTTP 200 OK[0m
+[32mOpen Ports:[0m 80/tcp
+443/tcp
+----------------------------------
+
+Checking: www.youtube.com
+[32mwww.youtube.com reachable[0m
+[32mHTTP 200 OK[0m
+[32mOpen Ports:[0m 80/tcp
+443/tcp
+----------------------------------
+
+Checking: www.amazon.com
+[32mwww.amazon.com reachable[0m
+[31mHTTP Error: 503[0m
+----------------------------------
+
+Checking: savoryminds.com
+[32msavoryminds.com reachable[0m
+[33mRedirected (301)[0m
+----------------------------------
